@@ -1,0 +1,66 @@
+
+.main-header{
+    background-color: #ffffff;
+    color: #666666;
+    position: relative;
+}
+.main-div-header{
+
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    padding: 60px 20px 60px 20px;
+}
+.image-div img{
+    display: inline-block;
+    max-width: 100%;
+    width: 140px;
+    vertical-align: middle;
+    height: auto;
+}
+
+.nav-btn{
+    display: none;
+}
+.nav-menu{
+    margin-left: auto;
+    z-index: 100;
+    padding: 0;
+    clear: both;
+    display: block;
+    color: #666666;
+}
+
+.nav-div{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    position: relative;
+}
+.main-menu{
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    padding: 0;
+    border: 0;
+    gap: 30px;
+}
+.menu-item a{
+    color: #666666;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    padding-left: 22px;
+    padding-right: 22px;
+    line-height: 50px;
+}
+
+.btn-style{
+    color: #ffffff;
+    background-color: #8718d2;
+    line-height: 44px;
+    padding: 14px 22px;
+    margin-top: 4px;
+    border-radius: 40px;
+    transition: all 0.4s ease 0s;
+}
