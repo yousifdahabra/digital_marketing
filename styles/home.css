@@ -83,8 +83,6 @@
     z-index: 100001;
     opacity: 1;
     position: fixed;
-    width: var(--gp-slideout-width);
-    height: 100%;
     height: 100vh;
     top: 0;
     z-index: 9999;
@@ -360,8 +358,6 @@ width: 33%;
   
   .site-footer .footer-container .footer-item .social-buttons a:hover i {
       background: linear-gradient(45deg,#666666,#666666);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
       transform: scale(1.5);
   }
   
