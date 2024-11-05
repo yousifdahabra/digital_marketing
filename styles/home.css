@@ -1,7 +1,5 @@
-
+/* Start menu navbar section */
 .main-header{
-    background-color: #ffffff;
-    color: #666666;
     position: relative;
 }
 .main-div-header{
@@ -28,7 +26,6 @@
     padding: 0;
     clear: both;
     display: block;
-    color: #666666;
 }
 
 .nav-div{
@@ -46,7 +43,6 @@
     gap: 30px;
 }
 .menu-item a{
-    color: #666666;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
     font-size: 18px;
@@ -56,15 +52,12 @@
 }
 
 .btn-style{
-    color: #ffffff;
-    background-color: #8718d2;
     line-height: 44px;
     padding: 14px 22px;
     margin-top: 4px;
     border-radius: 40px;
     transition: all 0.4s ease 0s;
 }
-
 
 .moblie-menu{
     margin-left: auto;
@@ -106,7 +99,6 @@
     top: 0;
     width: auto;
     font-size: 25px;
-    color: #666666;
     padding-left: 22px;
     padding-right: 22px;
     padding-top: 20px;
@@ -131,6 +123,5 @@
     .main-header ,.close-nav{
         display: none;
     }
-
 }
-  
+/* End menu navbar section */
