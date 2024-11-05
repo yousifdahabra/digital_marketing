@@ -230,7 +230,7 @@ width: 33%;
 /* End Expertise Section */
 
 
-
+/* Start Methodology Section */
 .methodologys-section{
     width: 100%;
     padding: 50px;
@@ -264,7 +264,9 @@ width: 33%;
     opacity: 0;
     transition: opacity 0.5s ease;
   }
+/* End Methodology Section */
 
+ 
 
 @media screen and (max-width: 915px) {
     .moblie-menu{
