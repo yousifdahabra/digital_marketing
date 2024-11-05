@@ -123,6 +123,54 @@
 /* End menu navbar section */
 
 
+/* Start Intro Section */
+
+.intro-section{
+    width: 100%;
+    padding: 50px 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.intro-div{
+    box-sizing: border-box;
+    padding: 40px;
+    width: 45%;
+    text-align: center;
+}
+.intro-div h1{
+    font-size: 56px;
+    line-height: 1em;
+}
+.intro-div p{
+    font-size: 20px;
+    line-height: 1em;
+}
+.intro-div a{
+    font-size: 20px;
+    line-height: 1em;
+}
+
+.intro-image{
+    box-sizing: border-box;
+    padding-left: 40px;
+    padding-bottom: 0px;
+    width: 55%;
+}
+.image-intro-div{
+    height: 100%;
+    padding: 40px;
+
+}
+
+.image-intro-div img{
+    box-sizing: border-box;
+    height: auto;
+    max-width: 100%;
+}
+ 
+/* End Intro Section */
+
 
 
 @media screen and (max-width: 915px) {
