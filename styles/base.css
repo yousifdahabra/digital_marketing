@@ -15,6 +15,13 @@ body{
 a {
     text-decoration: none;
 }
+a:hover{
+    color: #cea2ec;
+}
 
-
-
+.text-center{
+    text-align: center;
+}
+.head-section{
+    margin-top: 40px;
+}
