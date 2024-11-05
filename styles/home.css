@@ -171,6 +171,36 @@
  
 /* End Intro Section */
 
+/* Start Our Section */
+.our-main,.our-two-sub{
+    padding: 40px;
+}
+.our-main{
+width: 33%;
+}
+.our-two-sub{
+    width: 63%;
+}
+.our-sub-one{
+    box-sizing: border-box;
+    width: 50%;
+    padding: 0 70px;
+}
+.our-one p{
+    font-size: 20px;
+}
+.our-main h1{
+    font-size: 40px;
+    line-height: 1.1em;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-left: 4px solid #8718d2;
+    color: #869199;
+}
+.our-main h1 span{
+    font-size: 45px;
+}
+/* End Our Section */
 
 
 @media screen and (max-width: 915px) {
